@@ -1,8 +1,3 @@
-:root {
-  --color-accent: oklch(43.72% 0.1676 27.84);
-  --border-gray: oklch(80% 3% 200);
-}
-
 body {
   font: 100%/1.5 system-ui;
   max-width: 100ch;
@@ -170,4 +165,9 @@ h1 {
 
 .experience-image:hover {
   color: var(--color-accent);
+}
+
+:root {
+  --color-accent: oklch(43.72% 0.1676 27.84);
+  --border-gray: oklch(80% 3% 200);
 }
