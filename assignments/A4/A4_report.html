@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Vis & Society Assignment 4</title>
+    <link
+      rel="stylesheet"
+      href="https://vis-society.github.io/assignments/report.css"
+    />
+  </head>
+
+  <body>
+    <header>
+      <h1>
+        <small>Assignment 4</small>
+        Persuasive or Deceptive Visualization?
+      </h1>
+
+      <p><strong>Kevin E. Acevedo Jetter</strong> — <em>acevedo@mit.edu</em></p>
+    </header>
+
+    <main>
+      <h2>
+        Proposition: Latin America is the region with the poorest countries
+      </h2>
+
+      <p align="justify">
+        Dataset:
+        <a href="https://github.com/vis-society/World-Bank-Data-by-Indicators"
+          >Human Development Indicators, 1960–2020 (poverty)</a
+        >
+      </p>
+
+      <p align="justify">
+        As part of my exploring the dataset, I made different maps which are
+        shown below, with descriptions and finds. All the maps use average since
+        we do not have data for all countries for every year. I also formatted a
+        file called <a href="./data/population.csv">population.csv</a> which
+        contains the population by country (the latest being 2023) but was not
+        used for this assignment (I thought I was going to use it). The code for
+        the formatting and making the data easy to plot can be found
+        <a href="./order_data.py">here</a>.
+      </p>
+
+      <section>
+        <h3>Average Poverty Headcount Ratio by Country</h3>
+
+        <figure>
+          <img
+            width="100%"
+            src="../../images/A4/avg-poverty-ratio.png"
+            alt="Average Poverty Headcount Ratio by Country"
+          />
+          <figcaption>
+            Average Poverty Headcount Ratio by Country using all the lines that
+            the value is not 0. The countries in gray are the ones which we
+            don't have data.
+          </figcaption>
+        </figure>
+
+        <p align="justify">Design Decisions and Rationale:</p>
+
+        <ul>
+          <li>
+            First, note that this data starts from 2010, which is not much.
+            Also, note that many countries do not have this data, including many
+            from Latin America which is our Proposition.
+          </li>
+          <li>
+            From the little data we have, we can see that the areas with the
+            highest average poverty ratio are mainly Latin America and Africa
+            and the area with the lowest average poverty ratio is Europe
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h3>Average Population Living in Slums as a percentage</h3>
+
+        <figure>
+          <img
+            width="100%"
+            src="../../images/A4/avg-living-slums.png"
+            alt="Average Population Living in Slums as a percentage"
+          />
+          <figcaption>
+            Average Population Living in Slums as a percentage using all the
+            lines that the value is not 0. The countries in gray are the ones
+            which we don't have data.
+          </figcaption>
+        </figure>
+
+        <p align="justify">Design Decisions and Rationale:</p>
+
+        <ul>
+          <li>
+            First, note that this data starts from 1990 which is more
+            representative than the last graph. Also, note that some big
+            countries do not have this data, but thankfully those are outside
+            Latin America.
+          </li>
+          <li>
+            We can see that the area with the highest population living in slums
+            is mainly Africa, in this case we see also Asia as a big one and the
+            area with the lowest population living in slums is Europe and Canada
+            having some places with 0.0 and 0.1 percent.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h3>FOR the Proposition</h3>
+
+        <figure>
+          <img
+            width="100%"
+            src="../../images/A4/avg-gini-index.png"
+            alt="Average Gini Index by Country"
+          />
+          <figcaption>
+            Average Gini Index by Country using all the data that the Gini index
+            is not 0. The countries in gray are the ones which we don't have
+            data.
+          </figcaption>
+        </figure>
+
+        <p align="justify">Design Decisions and Rationale:</p>
+
+        <ul>
+          <li>
+            First, I had to look up what the gini index meant, and making this
+            graph gave a good estimate over the years using the average
+            function. The gini index is a good way to see the inequality in the
+            income of the population of a country
+          </li>
+          <li>
+            High gini index is a big factor that contributes to poverty since an
+            income inequality will cause people with less resources to have to
+            settle for less since they won't have enough money compared to
+            people that have way more money
+          </li>
+          <li>
+            We can see that the area with the highest gini index is Latin
+            America and the area with the lowest gini index is Europe
+          </li>
+        </ul>
+
+        <p align="justify">
+          Deceptive or Earnest (-2 to 2): For this visualization, I would give
+          it a -0.5 since it is hard to compare Latin America to Africa with
+          only using colors which is part of the deception since the reader
+          should trust that what I am saying is right. I thought of not using
+          countries that could affect the Latin America argument, but I thought
+          that doing it is not good practice
+        </p>
+      </section>
+
+      <section>
+        <h3>AGAINST the Proposition</h3>
+
+        <figure>
+          <img
+            width="100%"
+            src="../../images/A4/mean-shortfall.png"
+            alt="Mean shortfall in income or consumption from the poverty line $5.50 a day"
+          />
+          <figcaption>
+            Mean shortfall in income or consumption from the poverty line $5.50
+            a day
+          </figcaption>
+        </figure>
+
+        <p align="justify">Design Decisions and Rationale:</p>
+
+        <ul>
+          <li>
+            The mean shortfall for income or consumption is when you make X
+            amount of dollars less than what you need, in this case X being
+            $5.50 a day. This number, to be a daily thing, is huge and is
+            definitely an indicator of poverty rates in a country.
+          </li>
+          <li>
+            Think about it like this, $5.50 a day is a total of $2007.50 a year
+            which is a big amount for poor people. This number, which was
+            calculated as the average of the percentage, indicates the depth of
+            the poverty of the country
+          </li>
+          <li>
+            Using this statistic, we can see that Africa is the poorest region,
+            followed by Asia, and then Latin America.
+          </li>
+        </ul>
+
+        <p align="justify">
+          Deceptive or Earnest (-2 to 2): For this visualization, I would give
+          it a 2 since it is easy to see that Africa and Asia has a higher
+          percentage in average than Latin America. I believe this option was a
+          pretty strong one since the beginning
+        </p>
+      </section>
+
+      <section>
+        <h2>Final Reflection</h2>
+
+        <p align="justify">
+          This assignment has been an eye-opener project. It first showed me how
+          easy it is to take data and "push it your way" by using the data in
+          the specific way you want and without showing the flaws. I imagine
+          many non-serious news outlets use this type of practice to spread data
+          that is not real. Knowing how to bend words and data can make anyone
+          believable and a "weapon" of misinformation. This assignment was
+          difficult to complete since poverty is definitely not only one of the
+          categories from the dataset, it is a mix of all of them. As a matter
+          of fact, I do not believe poverty has a specific definition data-wise.
+          Poverty is a mix of different statistics, and it is hard to say that
+          one region is the poorest of them all.
+        </p>
+
+        <p align="justify">
+          I choose poverty for this project because poverty shouldn't be a term
+          in the sense that everyone should be able to live without the need to
+          be in a poverty standard. I believe this is a big problem in the world
+          that we should be working on. I wanted to use population numbers but
+          all the data is in percentages which dividing by population could be
+          weird and not good data. Using a map representation for my
+          visualizations was the best decision since you can clearly see the
+          difference by countries and regions more easily than having to think
+          where different countries are located.
+        </p>
+      </section>
+    </main>
+  </body>
+</html>

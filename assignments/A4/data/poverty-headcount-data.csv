@@ -1,0 +1,402 @@
+Country Name,Country Code,Year,average_value_Multidimensional poverty headcount ratio (% of total population)
+Iceland,ISL,2010,13.7
+Czech Republic,CZE,2010,14.4
+Norway,NOR,2010,14.9
+Netherlands,NLD,2010,15.1
+Finland,FIN,2010,16.9
+Luxembourg,LUX,2010,17.1
+Sweden,SWE,2010,17.7
+Denmark,DNK,2010,18.3
+Slovenia,SVN,2010,18.3
+Austria,AUT,2010,18.9
+France,FRA,2010,19.2
+Germany,DEU,2010,19.7
+Slovak Republic,SVK,2010,20.6
+Belgium,BEL,2010,20.8
+Malta,MLT,2010,21.2
+Estonia,EST,2010,21.7
+Cyprus,CYP,2010,24.6
+Italy,ITA,2010,25.0
+Spain,ESP,2010,26.1
+Ireland,IRL,2010,27.3
+Greece,GRC,2010,27.7
+Poland,POL,2010,27.8
+Hungary,HUN,2010,29.9
+Colombia,COL,2010,30.4
+Costa Rica,CRI,2010,30.9422032877302
+Croatia,HRV,2010,31.1
+Lithuania,LTU,2010,34.0
+Dominican Republic,DOM,2010,35.4
+Latvia,LVA,2010,38.2
+Armenia,ARM,2010,41.2
+Romania,ROU,2010,41.5
+Ghana,GHA,2010,42.7
+Rwanda,RWA,2010,44.4
+Pakistan,PAK,2010,44.7
+Ecuador,ECU,2010,46.08
+Mexico,MEX,2010,46.1
+North Macedonia,MKD,2010,47.2
+Bulgaria,BGR,2010,49.2
+Guinea-Bissau,GNB,2010,65.1
+Turkey,TUR,2010,65.7
+South Africa,ZAF,2011,8.0
+Morocco,MAR,2011,9.8
+Iceland,ISL,2011,13.7
+Norway,NOR,2011,14.5
+Czech Republic,CZE,2011,15.3
+Netherlands,NLD,2011,15.7
+Luxembourg,LUX,2011,16.8
+Denmark,DNK,2011,17.6
+Finland,FIN,2011,17.9
+Sweden,SWE,2011,18.5
+Austria,AUT,2011,19.2
+France,FRA,2011,19.3
+Slovenia,SVN,2011,19.3
+Germany,DEU,2011,19.9
+Slovak Republic,SVK,2011,20.6
+Belgium,BEL,2011,21.0
+Malta,MLT,2011,22.1
+Estonia,EST,2011,23.1
+Chile,CHL,2011,24.3
+Cyprus,CYP,2011,24.6
+Spain,ESP,2011,26.7
+Poland,POL,2011,27.2
+Italy,ITA,2011,28.1
+Costa Rica,CRI,2011,28.79957923639
+Colombia,COL,2011,29.4
+Ireland,IRL,2011,29.4
+Greece,GRC,2011,31.0
+Hungary,HUN,2011,31.5
+Croatia,HRV,2011,32.6
+Lithuania,LTU,2011,33.1
+Armenia,ARM,2011,33.9
+Dominican Republic,DOM,2011,34.3
+Nepal,NPL,2011,39.1
+Latvia,LVA,2011,40.1
+Ecuador,ECU,2011,40.71
+Romania,ROU,2011,40.9
+Bulgaria,BGR,2011,49.1
+North Macedonia,MKD,2011,50.4
+Ghana,GHA,2011,55.0
+Turkey,TUR,2011,63.8
+Bhutan,BTN,2012,12.4
+Iceland,ISL,2012,12.7
+Norway,NOR,2012,13.7
+Netherlands,NLD,2012,15.0
+Czech Republic,CZE,2012,15.4
+Finland,FIN,2012,17.2
+Denmark,DNK,2012,17.5
+Sweden,SWE,2012,17.7
+Luxembourg,LUX,2012,18.4
+Austria,AUT,2012,18.5
+France,FRA,2012,19.1
+Germany,DEU,2012,19.6
+Slovenia,SVN,2012,19.6
+Slovak Republic,SVK,2012,20.5
+Belgium,BEL,2012,21.6
+Malta,MLT,2012,23.1
+Estonia,EST,2012,23.4
+Costa Rica,CRI,2012,26.2
+Poland,POL,2012,26.7
+Colombia,COL,2012,27.0
+Cyprus,CYP,2012,27.1
+Spain,ESP,2012,27.2
+Italy,ITA,2012,29.9
+Ireland,IRL,2012,30.1
+Armenia,ARM,2012,31.3
+Lithuania,LTU,2012,32.5
+Croatia,HRV,2012,32.6
+Hungary,HUN,2012,33.5
+Greece,GRC,2012,34.6
+Dominican Republic,DOM,2012,34.9
+Latvia,LVA,2012,36.2
+Ecuador,ECU,2012,37.83
+Pakistan,PAK,2012,40.8
+Romania,ROU,2012,43.2
+Mexico,MEX,2012,45.5
+Bulgaria,BGR,2012,49.3
+North Macedonia,MKD,2012,50.3
+Turkey,TUR,2012,61.3
+Iceland,ISL,2013,13.0
+Norway,NOR,2013,14.1
+Czech Republic,CZE,2013,14.6
+Netherlands,NLD,2013,15.9
+Finland,FIN,2013,16.0
+France,FRA,2013,18.1
+Denmark,DNK,2013,18.3
+Sweden,SWE,2013,18.3
+Austria,AUT,2013,18.8
+Luxembourg,LUX,2013,19.0
+Slovak Republic,SVK,2013,19.8
+Germany,DEU,2013,20.3
+Chile,CHL,2013,20.4
+Slovenia,SVN,2013,20.4
+Belgium,BEL,2013,20.8
+Estonia,EST,2013,23.5
+Malta,MLT,2013,24.6
+Colombia,COL,2013,24.8
+Costa Rica,CRI,2013,25.3472112211607
+Poland,POL,2013,25.8
+Spain,ESP,2013,27.3
+Cyprus,CYP,2013,27.8
+Italy,ITA,2013,28.5
+Croatia,HRV,2013,29.9
+Ireland,IRL,2013,29.9
+Armenia,ARM,2013,30.5
+Lithuania,LTU,2013,30.8
+Rwanda,RWA,2013,32.9
+Dominican Republic,DOM,2013,33.9
+Hungary,HUN,2013,34.8
+Latvia,LVA,2013,35.1
+Greece,GRC,2013,35.7
+Ecuador,ECU,2013,38.66
+Romania,ROU,2013,41.9
+Bulgaria,BGR,2013,48.0
+North Macedonia,MKD,2013,48.1
+Turkey,TUR,2013,51.2
+Burundi,BDI,2013,64.8
+Honduras,HND,2013,74.2
+Morocco,MAR,2014,8.2
+Iceland,ISL,2014,11.2
+Norway,NOR,2014,13.5
+Czech Republic,CZE,2014,14.8
+Netherlands,NLD,2014,16.5
+Finland,FIN,2014,17.3
+Denmark,DNK,2014,17.9
+Sweden,SWE,2014,18.2
+Slovak Republic,SVK,2014,18.4
+France,FRA,2014,18.5
+Luxembourg,LUX,2014,19.0
+Austria,AUT,2014,19.2
+Slovenia,SVN,2014,20.4
+Germany,DEU,2014,20.6
+Belgium,BEL,2014,21.2
+Colombia,COL,2014,21.9
+Malta,MLT,2014,23.9
+Poland,POL,2014,24.7
+Costa Rica,CRI,2014,25.7069427635349
+Estonia,EST,2014,26.0
+Lithuania,LTU,2014,27.3
+Cyprus,CYP,2014,27.4
+Ireland,IRL,2014,27.7
+Italy,ITA,2014,28.3
+Nepal,NPL,2014,28.62
+Dominican Republic,DOM,2014,29.2
+Spain,ESP,2014,29.2
+Croatia,HRV,2014,29.3
+Hungary,HUN,2014,31.8
+Armenia,ARM,2014,31.9
+Latvia,LVA,2014,32.7
+Greece,GRC,2014,36.0
+Ecuador,ECU,2014,37.37
+Pakistan,PAK,2014,38.8
+Bulgaria,BGR,2014,40.1
+Romania,ROU,2014,40.3
+El Salvador,SLV,2014,40.5
+Turkey,TUR,2014,41.6
+North Macedonia,MKD,2014,43.3
+Mexico,MEX,2014,46.2
+Mozambique,MOZ,2014,53.0
+Guinea-Bissau,GNB,2014,57.8
+Guatemala,GTM,2014,61.62
+Iceland,ISL,2015,12.5
+Czech Republic,CZE,2015,14.0
+Norway,NOR,2015,15.0
+Netherlands,NLD,2015,16.4
+Finland,FIN,2015,16.8
+Denmark,DNK,2015,17.7
+France,FRA,2015,17.7
+Austria,AUT,2015,18.3
+Slovak Republic,SVK,2015,18.4
+Luxembourg,LUX,2015,18.5
+Sweden,SWE,2015,18.6
+Slovenia,SVN,2015,19.2
+Germany,DEU,2015,20.0
+Colombia,COL,2015,20.2
+Chile,CHL,2015,20.9
+Belgium,BEL,2015,21.1
+Malta,MLT,2015,23.0
+Poland,POL,2015,23.4
+Estonia,EST,2015,24.2
+Dominican Republic,DOM,2015,25.5
+Costa Rica,CRI,2015,26.1669480887656
+Ireland,IRL,2015,26.2
+Hungary,HUN,2015,28.2
+Spain,ESP,2015,28.6
+Italy,ITA,2015,28.7
+Cyprus,CYP,2015,28.9
+Armenia,ARM,2015,29.1
+Croatia,HRV,2015,29.1
+Lithuania,LTU,2015,29.3
+Latvia,LVA,2015,30.9
+Ecuador,ECU,2015,34.95
+Greece,GRC,2015,35.7
+Romania,ROU,2015,37.4
+Bulgaria,BGR,2015,41.3
+Turkey,TUR,2015,41.3
+North Macedonia,MKD,2015,41.6
+Angola,AGO,2015,54.0
+Sri Lanka,LKA,2016,2.37
+South Africa,ZAF,2016,7.0
+Iceland,ISL,2016,12.2
+Czech Republic,CZE,2016,13.3
+Norway,NOR,2016,15.3
+Finland,FIN,2016,16.6
+Netherlands,NLD,2016,16.7
+Denmark,DNK,2016,16.8
+Colombia,COL,2016,17.8
+Austria,AUT,2016,18.0
+Slovak Republic,SVK,2016,18.1
+France,FRA,2016,18.2
+Sweden,SWE,2016,18.3
+Slovenia,SVN,2016,18.4
+Germany,DEU,2016,19.7
+Luxembourg,LUX,2016,19.8
+Malta,MLT,2016,20.3
+Belgium,BEL,2016,20.9
+Poland,POL,2016,21.9
+Dominican Republic,DOM,2016,23.1
+West Bank and Gaza,PSE,2016,24.0
+Estonia,EST,2016,24.4
+Ireland,IRL,2016,24.4
+Costa Rica,CRI,2016,25.0396719237988
+Hungary,HUN,2016,26.3
+Cyprus,CYP,2016,27.7
+Armenia,ARM,2016,27.8
+Croatia,HRV,2016,27.9
+Spain,ESP,2016,27.9
+Maldives,MDV,2016,28.4
+Latvia,LVA,2016,28.5
+Rwanda,RWA,2016,28.7
+Italy,ITA,2016,30.0
+Lithuania,LTU,2016,30.1
+Ecuador,ECU,2016,35.1
+Greece,GRC,2016,35.6
+Romania,ROU,2016,38.8
+El Salvador,SLV,2016,39.4
+Mali,MLI,2016,39.8
+Bulgaria,BGR,2016,40.4
+North Macedonia,MKD,2016,41.1
+Mexico,MEX,2016,43.6
+Turkey,TUR,2016,45.1
+Ghana,GHA,2016,45.6
+Afghanistan,AFG,2016,51.7
+Bhutan,BTN,2017,5.8
+Czech Republic,CZE,2017,12.2
+Iceland,ISL,2017,12.8
+Finland,FIN,2017,15.7
+Norway,NOR,2017,16.0
+Slovak Republic,SVK,2017,16.3
+France,FRA,2017,17.0
+Netherlands,NLD,2017,17.0
+Slovenia,SVN,2017,17.1
+Denmark,DNK,2017,17.2
+Thailand,THA,2017,17.61
+Sweden,SWE,2017,17.7
+Austria,AUT,2017,18.1
+Germany,DEU,2017,19.0
+Panama,PAN,2017,19.1
+Malta,MLT,2017,19.3
+Poland,POL,2017,19.5
+Belgium,BEL,2017,20.6
+Chile,CHL,2017,20.7
+Dominican Republic,DOM,2017,20.9
+Luxembourg,LUX,2017,21.5
+Ireland,IRL,2017,22.7
+Costa Rica,CRI,2017,23.0765411694186
+Estonia,EST,2017,23.4
+Cyprus,CYP,2017,25.2
+Hungary,HUN,2017,25.6
+Armenia,ARM,2017,26.0
+Croatia,HRV,2017,26.4
+Spain,ESP,2017,26.6
+Latvia,LVA,2017,28.2
+Italy,ITA,2017,28.9
+Lithuania,LTU,2017,29.6
+Ecuador,ECU,2017,34.59
+Greece,GRC,2017,34.8
+Romania,ROU,2017,35.7
+Bulgaria,BGR,2017,38.9
+El Salvador,SLV,2017,38.9
+Turkey,TUR,2017,41.3
+North Macedonia,MKD,2017,41.6
+Nigeria,NGA,2017,53.7
+Iceland,ISL,2018,11.0
+Czech Republic,CZE,2018,12.2
+Norway,NOR,2018,16.2
+Slovenia,SVN,2018,16.2
+Slovak Republic,SVK,2018,16.3
+Finland,FIN,2018,16.5
+Netherlands,NLD,2018,16.7
+Denmark,DNK,2018,17.4
+France,FRA,2018,17.4
+Austria,AUT,2018,17.5
+Sweden,SWE,2018,18.0
+Germany,DEU,2018,18.7
+Dominican Republic,DOM,2018,18.8
+Poland,POL,2018,18.9
+Malta,MLT,2018,19.0
+Colombia,COL,2018,19.6
+Hungary,HUN,2018,19.6
+Belgium,BEL,2018,20.0
+Ireland,IRL,2018,21.1
+Luxembourg,LUX,2018,21.9
+Armenia,ARM,2018,23.6
+Costa Rica,CRI,2018,23.6210876691913
+Cyprus,CYP,2018,23.9
+Estonia,EST,2018,24.4
+Croatia,HRV,2018,24.8
+Spain,ESP,2018,26.1
+Italy,ITA,2018,27.3
+Lithuania,LTU,2018,28.3
+Latvia,LVA,2018,28.4
+Greece,GRC,2018,31.8
+Seychelles,SYC,2018,31.99
+Romania,ROU,2018,32.5
+Bulgaria,BGR,2018,32.8
+El Salvador,SLV,2018,33.8
+Ecuador,ECU,2018,37.86
+Turkey,TUR,2018,39.8
+North Macedonia,MKD,2018,41.1
+Mexico,MEX,2018,41.9
+Ghana,GHA,2018,47.8
+Czech Republic,CZE,2019,12.5
+Slovenia,SVN,2019,14.4
+Finland,FIN,2019,15.6
+Norway,NOR,2019,16.1
+Dominican Republic,DOM,2019,16.4
+Slovak Republic,SVK,2019,16.4
+Denmark,DNK,2019,16.5
+Netherlands,NLD,2019,16.5
+Austria,AUT,2019,16.9
+Germany,DEU,2019,17.4
+France,FRA,2019,17.9
+Poland,POL,2019,18.2
+Sweden,SWE,2019,18.8
+Hungary,HUN,2019,18.9
+Belgium,BEL,2019,19.5
+Malta,MLT,2019,20.1
+Ireland,IRL,2019,20.6
+Luxembourg,LUX,2019,20.6
+Costa Rica,CRI,2019,20.715601092999
+Cyprus,CYP,2019,22.3
+Croatia,HRV,2019,23.3
+Estonia,EST,2019,24.3
+Spain,ESP,2019,25.3
+Italy,ITA,2019,25.6
+Lithuania,LTU,2019,26.3
+Latvia,LVA,2019,27.3
+Greece,GRC,2019,30.0
+Romania,ROU,2019,31.2
+El Salvador,SLV,2019,32.0
+Bulgaria,BGR,2019,32.5
+Ecuador,ECU,2019,38.13
+Turkey,TUR,2019,39.8
+North Macedonia,MKD,2019,39.9
+Denmark,DNK,2020,15.9
+Finland,FIN,2020,16.0
+Netherlands,NLD,2020,16.3
+Hungary,HUN,2020,17.8
+Romania,ROU,2020,30.4
+Bulgaria,BGR,2020,32.1
+Afghanistan,AFG,2020,49.4
